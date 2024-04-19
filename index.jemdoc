@@ -1,0 +1,95 @@
+#
+= Cheuk Yin (Eric) Lin
+
+~~~
+{}{img_left}{assets/eric_lin.jpg}{Profile picture unavailable}{280}{280}{https://ericlincc.com}
+
+Ph.D. student,\n [https://www.cs.wisc.edu/ Department of Computer Sciences],\n [https://www.wisc.edu/ University of Wisconsin-Madison].\n
+Email: cylin AT cs DOT wisc DOT edu
+~~~
+
+
+== About me
+
+
+I am a fifth year Ph.D. candidate at the Department of Computer Sciences, University of Wisconsin-Madison and am fortunate to be advised by [http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas]. I am primarily interested in the area of large-scale optimization methods and their applications to machine learning. My current research work aims to design novel optimization algorithms with solid theoretical guarantees and good practical performance.
+
+Before moving to Madison, I completed my M.S. degree in Computer Science at Boston Unversity in 2019, where I had the great opportunity to work on convex optimization with [http://orecchia.net Prof. Lorenzo Orecchia] and Jelena. Prior to that, I obtained my B.A. degree in Mathematics at the University of Cambridge in 2015, supervised by [https://www.chu.cam.ac.uk/people/view/christopher-tout Professor Christopher Tout] and [https://www.chu.cam.ac.uk/people/view/paul-russell Dr Paul Russell].
+
+
+== News
+
+- Apr 2023: [https://arxiv.org/abs/2303.16279 ACODER] is accepted to /ICML'23/!
+
+- Sep 2022: [https://arxiv.org/abs/2111.01842 CLVR] is accepted to /NeurIPS'22/!
+
+- May 2022: I presented our work ([https://arxiv.org/abs/2111.01842 CLVR]) during 2022 Optimization Days at HEC Montréal.
+
+- May 2021: [https://arxiv.org/abs/2102.06806 Parameter-free Locally Accelerated Conditional Gradients] is accepted to /ICML'21/!
+
+
+== Experience
+
+
+- Applied Scientist Intern | Machine Intelligence and Decision Analytics for Search, Amazon
+\n May 2021 - Aug 2021
+\n Berkeley, CA, United States
+\n Worked on a deep learning research project to improve the quality of Amazon's search query suggestions.
+
+- Software Development Engineer Intern | Machine Intelligence and Decision Analytics for Search, Amazon
+\n Mar 2019 - Jan 2020
+\n Berkeley, CA, United States
+\n Worked on the machine learning infrastructure for customer search query understanding and suggestion.
+
+
+== Publications & Preprints
+
+
+(\* denotes equal contribution, α-β denotes alphabetical ordering)
+
+- X. Cai, C-Y. Lin, J. Diakonikolas, “Empirical Risk Minimization with Shuffled SGD: A Primal-Dual Perspective and Improved Bounds,” arXiv preprint, arXiv:2306.12498, 2023. \[[https://arxiv.org/abs/2306.12498 arXiv]\]
+
+- C-Y. Lin, C. Song, J. Diakonikolas, "Accelerated Cyclic Coordinate Dual Averaging with Extrapolation for Composite Convex Optimization," accepted to ICML'23, 2023. \[[https://arxiv.org/abs/2303.16279 arXiv]\]
+
+- C. Song\*, C-Y. Lin\*, S. Wright, J. Diakonikolas, "Coordinate Linear Variance Reduction for Generalized Linear Programming," in Proc. NeurIPS'22, 2022. \[[https://arxiv.org/abs/2111.01842 arXiv]\] \[[https://neurips.cc/virtual/2022/poster/53988 Talk]\] \[[https://neurips.cc/media/neurips-2022/Slides/53988.pdf Poster]\]
+
+- (α-β) A. Carderera, J. Diakonikolas, C. Y. Lin, S. Pokutta, "Parameter-free Locally Accelerated Conditional Gradients," in Proc. ICML'21, 2021. \[[https://arxiv.org/abs/2102.06806 arXiv]\] \[[https://slideslive.com/38959171/parameterfree-locally-accelerated-conditional-gradients?ref=speaker-35525-latest Talk]\] \[[https://icml.cc/media/icml-2021/Slides/9511.pdf Slides]\]
+
+
+== Teaching
+
+
+- 2023 Spring
+-- [https://www.jelena-diakonikolas.com/cs639-s23.html CS 639 Foundations of Data Science] ([http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas])
+
+- 2022 Spring
+-- [https://www.jelena-diakonikolas.com/cs639-s22.html CS 639 Foundations of Data Science] ([http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas])
+
+- 2020 Fall
+-- [http://www.jelena-diakonikolas.com/cs726-f20.html CS 726 Nonlinear Optimization] ([http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas])
+
+- 2020 Spring
+-- [http://www.jelena-diakonikolas.com/cs726-s20.html CS 726 Nonlinear Optimization] ([http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas])
+
+
+== Relevant Courses
+
+- 2022 Spring
+-- [https://pages.cs.wisc.edu/~yliang/cs839_spring22/index.html CS 839 Theoretical Foundations of Deep Learning] (Prof. Yingyu Liang)
+-- CS 787 Advanced Algorithms (Prof. Christos Tzamos)
+
+- 2021 Fall
+-- [https://people.math.wisc.edu/~roch/hdps/index.html Math 888 High-Dimensional Probability and Statistics] (Prof. Sebastien Roch)
+
+- 2021 Spring
+-- CS 525 Linear Optimization (Prof. Alberto Del Pia)
+-- CS 728 Integer Optimization (Prof. Jim Luedtke)
+
+- 2020 Fall
+-- CS 524 Introduction to Optimization (Prof. Michael Ferris)
+-- CS 727 Convex Analysis (Prof. Stephen M. Robinson)
+
+- 2020 Spring
+-- CS 726 Nonlinear Optimization ([http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas])
+-- CS 761 Mathematical Foundations of Machine Learning (Prof. Robert Nowak & Prof. Kangwook Lee)
+
