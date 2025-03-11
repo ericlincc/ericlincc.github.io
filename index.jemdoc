@@ -19,7 +19,7 @@ Before moving to Madison, I completed my M.S. degree in Computer Science at Bost
 
 == News
 
-- Sep 2024: [https://arxiv.org/abs/2306.12498 Shuffled SGD] is accepted to /NeurIPS'24/!
+- Sep 2024: [https://neurips.cc/virtual/2024/poster/93484 Shuffled SGD] is accepted to /NeurIPS'24/!
 
 - Apr 2023: [https://arxiv.org/abs/2303.16279 ACODER] is accepted to /ICML'23/!
 
@@ -49,13 +49,13 @@ Before moving to Madison, I completed my M.S. degree in Computer Science at Bost
 
 (\* denotes equal contribution, α-β denotes alphabetical ordering)
 
-- X. Cai\*, C-Y. Lin\*, J. Diakonikolas, “Empirical Risk Minimization with Shuffled SGD: A Primal-Dual Perspective and Improved Bounds,” accepted to NeurIPS'24, 2024. \[[https://arxiv.org/abs/2306.12498 arXiv]\]
+- X. Cai\*, C-Y. Lin\*, J. Diakonikolas, “Tighter Convergence Bounds for Shuffled SGD via Primal-Dual Perspective”, accepted to NeurIPS'24, 2024. \[[https://arxiv.org/abs/2306.12498 arXiv]\] \[[https://neurips.cc/virtual/2024/poster/93484 Poster]\]
 
-- C-Y. Lin, C. Song, J. Diakonikolas, "Accelerated Cyclic Coordinate Dual Averaging with Extrapolation for Composite Convex Optimization," in Proc. ICML'23, 2023. \[[https://arxiv.org/abs/2303.16279 arXiv]\]
+- C-Y. Lin, C. Song, J. Diakonikolas, "Accelerated Cyclic Coordinate Dual Averaging with Extrapolation for Composite Convex Optimization", in Proc. ICML'23, 2023. \[[https://arxiv.org/abs/2303.16279 arXiv]\]
 
-- C. Song\*, C-Y. Lin\*, S. Wright, J. Diakonikolas, "Coordinate Linear Variance Reduction for Generalized Linear Programming," in Proc. NeurIPS'22, 2022. \[[https://arxiv.org/abs/2111.01842 arXiv]\] \[[https://neurips.cc/virtual/2022/poster/53988 Talk]\] \[[https://neurips.cc/media/neurips-2022/Slides/53988.pdf Poster]\]
+- C. Song\*, C-Y. Lin\*, S. Wright, J. Diakonikolas, "Coordinate Linear Variance Reduction for Generalized Linear Programming", in Proc. NeurIPS'22, 2022. \[[https://arxiv.org/abs/2111.01842 arXiv]\] \[[https://neurips.cc/virtual/2022/poster/53988 Talk]\] \[[https://neurips.cc/media/neurips-2022/Slides/53988.pdf Poster]\]
 
-- (α-β) A. Carderera, J. Diakonikolas, C. Y. Lin, S. Pokutta, "Parameter-free Locally Accelerated Conditional Gradients," in Proc. ICML'21, 2021. \[[https://arxiv.org/abs/2102.06806 arXiv]\] \[[https://slideslive.com/38959171/parameterfree-locally-accelerated-conditional-gradients?ref=speaker-35525-latest Talk]\] \[[https://icml.cc/media/icml-2021/Slides/9511.pdf Slides]\]
+- (α-β) A. Carderera, J. Diakonikolas, C. Y. Lin, S. Pokutta, "Parameter-free Locally Accelerated Conditional Gradients", in Proc. ICML'21, 2021. \[[https://arxiv.org/abs/2102.06806 arXiv]\] \[[https://slideslive.com/38959171/parameterfree-locally-accelerated-conditional-gradients?ref=speaker-35525-latest Talk]\] \[[https://icml.cc/media/icml-2021/Slides/9511.pdf Slides]\]
 
 
 == Teaching
