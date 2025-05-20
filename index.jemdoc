@@ -4,17 +4,18 @@
 ~~~
 {}{img_left}{assets/eric_lin.jpg}{Profile picture unavailable}{280}{280}{https://ericlincc.com}
 
-Ph.D. student,\n [https://www.cs.wisc.edu/ Department of Computer Sciences],\n [https://www.wisc.edu/ University of Wisconsin-Madison].\n
-Email: cylin AT cs DOT wisc DOT edu
+Research Scientist,\n Meta Platforms, Inc.\n
+Email: cylin AT cs DOT wisc DOT edu \n
+\[[https://www.linkedin.com/in/ericlincc/ Linkedin]\] \[[https://scholar.google.com/citations?user=p7uC0pUAAAAJ&hl=en Google Scholar]\]
 ~~~
 
 
 == About me
 
 
-I am a fifth year Ph.D. candidate at the Department of Computer Sciences, University of Wisconsin-Madison and am fortunate to be advised by [http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas]. I am primarily interested in the area of large-scale optimization methods and their applications to machine learning. My current research work aims to design novel optimization algorithms with solid theoretical guarantees and good practical performance.
+I am a research scientist at Meta Platforms, Inc., working on large-scale deep learning ranking models for modern recommendation systems. I am primarily interested in the area of large-scale optimization algorithms and their applications to machine learning and deep learning. My current research work aims to design novel optimization algorithms with solid theoretical guarantees and good practical performance.
 
-Before moving to Madison, I completed my M.S. degree in Computer Science at Boston Unversity in 2019, where I had the great opportunity to work on convex optimization with [http://orecchia.net Prof. Lorenzo Orecchia] and Jelena. Prior to that, I obtained my B.A. degree in Mathematics at the University of Cambridge in 2015, supervised by [https://www.chu.cam.ac.uk/people/view/christopher-tout Professor Christopher Tout] and [https://www.chu.cam.ac.uk/people/view/paul-russell Dr Paul Russell].
+I obtained my Ph.D. degree in Computer Science at the University of Wisconsin-Madison and was fortunate to be advised by [http://www.jelena-diakonikolas.com Prof. Jelena Diakonikolas]. Before moving to Madison, I completed my M.S. degree in Computer Science at Boston Unversity, where I had the great opportunity to work on convex optimization with [http://orecchia.net Prof. Lorenzo Orecchia] and Jelena. Prior to that, I obtained my B.A. degree in Mathematics at the University of Cambridge, supervised by [https://www.chu.cam.ac.uk/people/view/christopher-tout Professor Christopher Tout] and [https://www.chu.cam.ac.uk/people/view/paul-russell Dr Paul Russell].
 
 
 == News
@@ -33,6 +34,10 @@ Before moving to Madison, I completed my M.S. degree in Computer Science at Bost
 == Experience
 
 
+- Research Scientist | Modern Recommendation Systems AI, Meta
+\n Aug 2024 - Present
+\n Menlo Park, CA, United States
+
 - Applied Scientist Intern | Machine Intelligence and Decision Analytics for Search, Amazon
 \n May 2021 - Aug 2021
 \n Berkeley, CA, United States
@@ -49,7 +54,7 @@ Before moving to Madison, I completed my M.S. degree in Computer Science at Bost
 
 (\* denotes equal contribution, α-β denotes alphabetical ordering)
 
-- X. Cai\*, C-Y. Lin\*, J. Diakonikolas, “Tighter Convergence Bounds for Shuffled SGD via Primal-Dual Perspective”, accepted to NeurIPS'24, 2024. \[[https://arxiv.org/abs/2306.12498 arXiv]\] \[[https://neurips.cc/virtual/2024/poster/93484 Poster]\]
+- X. Cai\*, C-Y. Lin\*, J. Diakonikolas, “Tighter Convergence Bounds for Shuffled SGD via Primal-Dual Perspective”, in Proc. NeurIPS'24, 2024. \[[https://arxiv.org/abs/2306.12498 arXiv]\] \[[https://neurips.cc/virtual/2024/poster/93484 Poster]\]
 
 - C-Y. Lin, C. Song, J. Diakonikolas, "Accelerated Cyclic Coordinate Dual Averaging with Extrapolation for Composite Convex Optimization", in Proc. ICML'23, 2023. \[[https://arxiv.org/abs/2303.16279 arXiv]\]
 
